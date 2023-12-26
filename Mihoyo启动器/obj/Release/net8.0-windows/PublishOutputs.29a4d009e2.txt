@@ -1,0 +1,5 @@
+C:\Users\h\OneDrive\文档\编程\Mihoyo启动器\Mihoyo启动器\bin\Release\net8.0-windows\publish\Mihoyo启动器.exe
+C:\Users\h\OneDrive\文档\编程\Mihoyo启动器\Mihoyo启动器\bin\Release\net8.0-windows\publish\Mihoyo启动器.dll
+C:\Users\h\OneDrive\文档\编程\Mihoyo启动器\Mihoyo启动器\bin\Release\net8.0-windows\publish\Mihoyo启动器.deps.json
+C:\Users\h\OneDrive\文档\编程\Mihoyo启动器\Mihoyo启动器\bin\Release\net8.0-windows\publish\Mihoyo启动器.runtimeconfig.json
+C:\Users\h\OneDrive\文档\编程\Mihoyo启动器\Mihoyo启动器\bin\Release\net8.0-windows\publish\Mihoyo启动器.pdb

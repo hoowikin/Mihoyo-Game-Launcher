@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mihoyo启动器</id>
+    <version>1.0.0</version>
+    <authors>Mihoyo启动器</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0-windows7.0/未标题-1.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\h\OneDrive\文档\编程\Mihoyo启动器\Mihoyo启动器\bin\Debug\net8.0-windows\Mihoyo启动器.runtimeconfig.json" target="lib\net8.0-windows7.0\Mihoyo启动器.runtimeconfig.json" />
+    <file src="C:\Users\h\OneDrive\文档\编程\Mihoyo启动器\Mihoyo启动器\bin\Debug\net8.0-windows\Mihoyo启动器.dll" target="lib\net8.0-windows7.0\Mihoyo启动器.dll" />
+    <file src="C:\Users\h\OneDrive\文档\编程\Mihoyo启动器\Mihoyo启动器\未标题-1.ico" target="content\未标题-1.ico" />
+    <file src="C:\Users\h\OneDrive\文档\编程\Mihoyo启动器\Mihoyo启动器\未标题-1.ico" target="contentFiles\any\net8.0-windows7.0\未标题-1.ico" />
+  </files>
+</package>
